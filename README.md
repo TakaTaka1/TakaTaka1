@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[zenn](https://zenn.dev/taaabow)
+* [zenn](https://zenn.dev/taaabow)
 
 
 <!--
